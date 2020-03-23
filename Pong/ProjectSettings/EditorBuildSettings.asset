@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/pong.unity
     guid: a9571c2177664014bab44bb615c01375
+  - enabled: 1
+    path: Assets/GameOver.unity
+    guid: 9faf2112ec635864fb1967e2a88b1825
   m_configObjects: {}

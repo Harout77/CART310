@@ -91,6 +91,7 @@
     <Compile Include="Assets\hinput\Scripts\Utils\hinput.cs" />
     <Compile Include="Assets\paddle.cs" />
     <Compile Include="Assets\timer.cs" />
+    <Compile Include="Assets\websurvey.cs" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Overlay.shader" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap.shader" />
